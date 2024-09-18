@@ -27,12 +27,8 @@ The **Library Management System (LMS)** is designed to automate the day-to-day o
    - Reserve or place holds on books.
    - Receive notifications about due dates and available books.
 
-4. **Login and Registration**
-   - Secure login for admins, librarians, and users.
-   - Registration for new users.
-   - Password reset and recovery options.
 
-5. **Book Management**
+4. **Book Management**
    - Add books with details (title, author, genre, ISBN).
    - Update or remove books.
    - Organize books by categories or genres.
@@ -43,8 +39,11 @@ The **Library Management System (LMS)** is designed to automate the day-to-day o
 1. Clone the repository:
    git clone https://github.com/Aleks29920200/library-management-system.git
    cd library-management-system or download the zip and open it on Intellij IDEA
+
 2.Install the required dependancies:
 Go to File->Project Structure->Libraries->+
 And search for com.mysql:mysql-connector-j:8.4.0
+
 3.Enter your password in the constant password to connect to the DB
+
 4.Enjoy it
