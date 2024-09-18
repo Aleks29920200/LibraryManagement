@@ -375,6 +375,7 @@ public class LibraryManagementSystem extends JFrame {
             getDataForGivenTable("books",Book.class);
         } catch (SQLException ex) {
             throw new RuntimeException(ex);
+
         }
 
         JTextField titleField = new JTextField();
