@@ -38,4 +38,13 @@ The **Library Management System (LMS)** is designed to automate the day-to-day o
    - Organize books by categories or genres.
    - Check real-time availability of books.
 
+### Steps to Install
 
+1. Clone the repository:
+   git clone https://github.com/yourusername/library-management-system.git
+   cd library-management-system or download the zip and open it on Intellij IDEA
+2.Install the required dependancies:
+Go to File->Project Structure->Libraries->+
+And search for com.mysql:mysql-connector-j:8.4.0
+3.Enter your password in the constant password to connect to the DB
+4.Enjoy it
