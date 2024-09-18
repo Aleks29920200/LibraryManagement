@@ -41,7 +41,7 @@ The **Library Management System (LMS)** is designed to automate the day-to-day o
 ### Steps to Install
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/Aleks29920200/library-management-system.git
    cd library-management-system or download the zip and open it on Intellij IDEA
 2.Install the required dependancies:
 Go to File->Project Structure->Libraries->+
